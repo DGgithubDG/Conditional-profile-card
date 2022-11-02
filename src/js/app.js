@@ -32,7 +32,7 @@ function render(variables = {}) {
   if (variables.lastname == null) variables.lastname = "Doe";
   if (variables.role == null) variables.role = "Role";
   if (variables.city == null) variables.city = "City";
-  if (variables.Country == null) variables.Country = "Country";
+  if (variables.Country == null) variables.country = "Country";
   if (variables.socialMediaPosition == "position-left") {
     variables.socialMediaPosition = "position-left";
   } else {

@@ -70,10 +70,10 @@
   position: absolute;
   top: 20px;
   padding: 0;
-  background: #2cdfd3;
+  background: #dfa32c;
 }
 .widget ul.position-left {
-  left: -26px;
+  right: -26px;
 }
 .widget ul.position-right {
   right: -27px;
@@ -84,14 +84,14 @@
 .widget ul li a {
   display: block;
   padding: 5px 6px;
-  color: #fff;
+  color: #2c47df;
   cursor: pointer;
   text-align: center;
-  border-bottom: 1px solid #2cd5ca;
+  border-bottom: 1px solid #2c47df;
   transition: background-color 0.3s;
 }
 .widget ul li:hover > a {
-  background-color: #2cd5ca;
+  background-color: #2c47df;
 }
 .widget ul li:first-child > a {
   border-radius: 0 3px 0 0;
